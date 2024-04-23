@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "大阪市内のパン屋"
 author: default
 permalink: /
 ---
@@ -13,17 +13,17 @@ permalink: /
 
 以下テンプレート
 
-# 見出し1
-## 見出し2
-### 見出し3
-#### 見出し4
-##### 見出し5
-###### 見出し6
+#ぱんの家
+## ／(^o^)＼
+### ／(^o^)＼
+#### ／(^o^)＼
+##### ／(^o^)＼
+###### ／(^o^)＼
 
 改行は、行末に半角スペースを2個いれる
 次の行
 
-[リンク](https://www.google.co.jp/)
+[リンク]([https://www.google.co.jp/](https://pannoie.jp/shop/kintetsuyao/))
 
 **太字**
 
